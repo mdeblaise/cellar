@@ -1,0 +1,4 @@
+services:
+#    mmcte.example:
+#        class: MMC\TEBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

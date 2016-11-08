@@ -1,0 +1,3 @@
+mmcte_homepage:
+    path:     /
+    defaults: { _controller: MMCTEBundle:Default:index }
